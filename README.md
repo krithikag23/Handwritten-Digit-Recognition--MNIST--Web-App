@@ -29,15 +29,7 @@ It is built using **Streamlit**, **TensorFlow/Keras**, and **streamlit-drawable-
 - Loss: Categorical Crossentropy
 - Optimizer: Adam
 
----
 
-## 🚀 Future Enhancements
-- Add **Clear Canvas** button
-- Add **Confidence Probability Bar Chart**
-- Deploy to **Streamlit Cloud / HuggingFace Spaces**
-- Support for upload-based handwritten digit images
-
----
 
 
 
